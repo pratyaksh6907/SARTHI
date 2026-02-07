@@ -8,3 +8,4 @@ instrumentation-client.ts
 # Common ignores
 .env*.local
 .DS_Store
+node_modules
