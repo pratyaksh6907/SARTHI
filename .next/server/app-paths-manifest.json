@@ -1,0 +1,16 @@
+{
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/about/page": "app/about/page.js",
+  "/auth/error/page": "app/auth/error/page.js",
+  "/auth/login/page": "app/auth/login/page.js",
+  "/auth/sign-up-success/page": "app/auth/sign-up-success/page.js",
+  "/auth/sign-up/page": "app/auth/sign-up/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/features/page": "app/features/page.js",
+  "/health-literacy/page": "app/health-literacy/page.js",
+  "/how-it-works/page": "app/how-it-works/page.js",
+  "/impact/page": "app/impact/page.js",
+  "/page": "app/page.js",
+  "/privacy/page": "app/privacy/page.js"
+}

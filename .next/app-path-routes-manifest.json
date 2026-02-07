@@ -1,0 +1,16 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/about/page": "/about",
+  "/auth/error/page": "/auth/error",
+  "/auth/login/page": "/auth/login",
+  "/auth/sign-up-success/page": "/auth/sign-up-success",
+  "/auth/sign-up/page": "/auth/sign-up",
+  "/dashboard/page": "/dashboard",
+  "/features/page": "/features",
+  "/health-literacy/page": "/health-literacy",
+  "/how-it-works/page": "/how-it-works",
+  "/impact/page": "/impact",
+  "/page": "/",
+  "/privacy/page": "/privacy"
+}
